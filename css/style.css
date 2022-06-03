@@ -1,1 +1,27 @@
-
+body{
+height: 80%;
+width: 45%;
+}
+a button {
+	height: 3.6rem;
+	width: 5.3rem;
+	background: lightblue;
+	padding: 0;
+	margin: 0;
+}
+a {
+	text-decoration: none;
+}
+input {
+	height: 2.5rem;
+	width: 7rem;
+}
+.up {
+	width: 20.10rem;
+}
+.file {
+	height: 2rem;
+	width: 20.10rem;
+	padding: 0;
+margin:0;
+}
